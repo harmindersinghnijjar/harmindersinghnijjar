@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm an avid gamer and I enjoy learning new programming languages.
 
 <div align=center>
-![harmindersinghnijjar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=harmindersinghnijjar&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E111)
+![harmindersinghnijjar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=harmindersinghnijjar&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 </div>
 
 <!--
