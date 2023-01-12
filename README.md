@@ -1,4 +1,4 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=harmindersinghnijjar&color=red)
+![Profile View Counter](https://komarev.com/ghpvc/?username=harmindersinghnijjar&color=neon)
 
 ### Hi there 👋
 
