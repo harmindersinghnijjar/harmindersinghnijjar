@@ -11,9 +11,9 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm an avid gamer and I enjoy learning new programming languages.
 
-<div align=center>
+
 ![harmindersinghnijjar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=harmindersinghnijjar&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
-</div>
+
 
 <!--
 **harmindersinghnijjar/harmindersinghnijjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
