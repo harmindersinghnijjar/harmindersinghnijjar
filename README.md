@@ -6,7 +6,7 @@ Feel free to contact me if you have questions about programming, machine learnin
 
 Outside work, I'm an avid gamer and enjoy learning new programming languages.
 
-You can find me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/)
 
 
 
