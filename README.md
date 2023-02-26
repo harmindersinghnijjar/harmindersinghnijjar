@@ -10,9 +10,10 @@ Apart from my work, I have a keen interest in gaming and enjoy keeping up with t
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmindersinghnijjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
- ![harmindersinghnijjar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=harmindersinghnijjar&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
+
 
 <!--
 **harmindersinghnijjar/harmindersinghnijjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
