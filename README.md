@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=harmindersinghnijjar&color=red)
 
-I am a professional software developer and enthusiastic about the potential of artificial intelligence (AI). Currently, I am focused on implementing and evaluating deep learning AI models in Python for processing mass spectrometry to identify molecular signatures. Additionally, in my free time, I am working on automating web, game, and mobile applications.
+I am a software developer and enthusiastic about the potential of artificial intelligence (AI). Currently, I am focused on implementing and evaluating deep learning AI models in Python for processing mass spectrometry to identify molecular signatures. Additionally, in my free time, I am working on automating web, game, and mobile applications.
 
 To expand my skill set, I am also learning Java, HTML, CSS, and JavaScript, and I am actively seeking opportunities to collaborate on projects that involve training intelligent agents to play video games. I am also looking for assistance in training and deploying AI models on Punjabi datasets.
 
