@@ -2,7 +2,7 @@
 
 I am a software developer and enthusiastic about the potential of artificial intelligence (AI). Currently, I am focused on implementing and evaluating deep learning AI models in Python for processing mass spectrometry to identify molecular signatures. Additionally, in my free time, I am working on automating web, game, and mobile applications.
 
-To expand my skill set, I am also learning Java, HTML, CSS, and JavaScript, and I am actively seeking opportunities to collaborate on projects that involve training intelligent agents to play video games. I am also looking for assistance in training and deploying AI models on Punjabi datasets.
+To expand my skill set, I am also learning Java, React, and NextJS. I am actively seeking opportunities to collaborate on projects that involve training intelligent agents to play video games. I am also looking for assistance in training and deploying AI models on Punjabi datasets.
 
 If you have any questions about programming, machine learning, computer vision, natural language processing (NLP), or any other AI-related topics, I would be happy to provide my expertise.
 
