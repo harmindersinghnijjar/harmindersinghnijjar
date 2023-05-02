@@ -8,7 +8,7 @@ If you have any questions about programming, machine learning, computer vision, 
 
 Apart from my work, I have a keen interest in gaming and enjoy keeping up with the latest technological advancements and developments in venture capitalism.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/) or [YouTube](https://www.youtube.com/@harmindersinghnijjar/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/), [Twitter](https://twitter.com/harmindersnijja) or [YouTube](https://www.youtube.com/@harmindersinghnijjar/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmindersinghnijjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
