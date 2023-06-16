@@ -6,7 +6,7 @@ I am also learning Java, React, and NextJS to expand my skill set. I am actively
 
 I would be happy to provide my expertise if you have any questions about programming, machine learning, computer vision, natural language processing (NLP), or any other AI-related topics.
 
-Apart from my work, I am keenly interested in gaming and enjoy keeping up with venture capitalism's latest technological advancements and developments.
+Apart from my work, I am keenly interested in gaming and enjoy keeping up with venture capitalism and the latest technological advancements and developments.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/), [Twitter](https://twitter.com/harmindersnijja) or [YouTube](https://www.youtube.com/@harmindersinghnijjar/).
 
