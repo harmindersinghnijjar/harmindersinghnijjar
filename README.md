@@ -1,12 +1,12 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=harmindersinghnijjar&color=red)
 
-I am a software developer and enthusiastic about the potential of artificial intelligence (AI). Currently, I am focused on implementing and evaluating deep learning AI models in Python for processing mass spectrometry to identify molecular signatures. Additionally, in my free time, I am working on automating web, game, and mobile applications.
+I am a software developer and am enthusiastic about the potential of artificial intelligence (AI). Currently, I am focused on implementing and evaluating deep learning AI models in Python for processing mass spectrometry to identify molecular signatures. Additionally, I am working on automating websites, games, and mobile applications in my free time.
 
-To expand my skill set, I am also learning Java, React, and NextJS. I am actively seeking opportunities to collaborate on projects that involve training intelligent agents to play video games. I am also looking for assistance in training and deploying AI models on Punjabi datasets.
+I am also learning Java, React, and NextJS to expand my skill set. I am actively seeking opportunities to collaborate on projects that involve training intelligent agents to play video games. I am also seeking assistance training and deploying AI models on Punjabi datasets.
 
-If you have any questions about programming, machine learning, computer vision, natural language processing (NLP), or any other AI-related topics, I would be happy to provide my expertise.
+I would be happy to provide my expertise if you have any questions about programming, machine learning, computer vision, natural language processing (NLP), or any other AI-related topics.
 
-Apart from my work, I have a keen interest in gaming and enjoy keeping up with the latest technological advancements and developments in venture capitalism.
+Apart from my work, I am keenly interested in gaming and enjoy keeping up with venture capitalism's latest technological advancements and developments.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/), [Twitter](https://twitter.com/harmindersnijja) or [YouTube](https://www.youtube.com/@harmindersinghnijjar/).
 
