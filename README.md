@@ -10,8 +10,6 @@ Apart from my work, I am keenly interested in gaming and enjoy keeping up with v
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/harmindersinghnijjar/), [Twitter](https://twitter.com/harmindersnijja) or [YouTube](https://www.youtube.com/@harmindersinghnijjar/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmindersinghnijjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
 
 
 
